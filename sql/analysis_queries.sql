@@ -1,4 +1,4 @@
--- Travel & Tourism Analytics SQL (PostgreSQL-compatible)
+-- Travel & Tourism Analytics SQL 
 -- Assumed table: travel_bookings
 
 -- 1. Data quality profile
